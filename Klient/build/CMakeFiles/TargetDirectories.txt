@@ -1,0 +1,7 @@
+/home/grzegorz/Pulpit/1/Klient/build/CMakeFiles/install.dir
+/home/grzegorz/Pulpit/1/Klient/build/CMakeFiles/list_install_components.dir
+/home/grzegorz/Pulpit/1/Klient/build/CMakeFiles/rebuild_cache.dir
+/home/grzegorz/Pulpit/1/Klient/build/CMakeFiles/RootProject.dir
+/home/grzegorz/Pulpit/1/Klient/build/CMakeFiles/install/local.dir
+/home/grzegorz/Pulpit/1/Klient/build/CMakeFiles/install/strip.dir
+/home/grzegorz/Pulpit/1/Klient/build/CMakeFiles/edit_cache.dir

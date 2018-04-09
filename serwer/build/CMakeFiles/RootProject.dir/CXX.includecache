@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/grzegorz/Pulpit/1/serwer/sources/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+memory
+-
+map
+-
+mutex
+-
+atomic
+-
+cstring
+-
+sys/socket.h
+-
+stdlib.h
+-
+netinet/in.h
+-
+string
+-
+fstream
+-
+
